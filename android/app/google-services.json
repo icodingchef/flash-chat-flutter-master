@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "689482902582",
+    "firebase_url": "https://yammie-chat.firebaseio.com",
+    "project_id": "yammie-chat",
+    "storage_bucket": "yammie-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689482902582:android:f697a238b2ca52753d3c97",
+        "android_client_info": {
+          "package_name": "com.codingchef.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689482902582-c4dop63hter8bp2cus3nh4a27bm0kuu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-RvunjH9pPLfJf9RAEVkPCyg29x8CEPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689482902582-c4dop63hter8bp2cus3nh4a27bm0kuu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
